@@ -1,0 +1,10 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="notice"></div>
+<h2>Posts List</h2>
+<button id="AddPost" type="button" data-toggle="modal" data-target="#postModal" class="btn btn-primary">Add Post</button>
+<hr />
+<div class="row"></div>
+
+@{Html.RenderPartial("Modal");}

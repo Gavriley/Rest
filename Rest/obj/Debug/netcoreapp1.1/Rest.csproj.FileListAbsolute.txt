@@ -1,0 +1,9 @@
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\bin\Debug\netcoreapp1.1\Rest.deps.json
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\bin\Debug\netcoreapp1.1\Rest.runtimeconfig.json
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\bin\Debug\netcoreapp1.1\Rest.runtimeconfig.dev.json
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\bin\Debug\netcoreapp1.1\Rest.dll
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\obj\Debug\netcoreapp1.1\Rest.csprojResolveAssemblyReference.cache
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\obj\Debug\netcoreapp1.1\Rest.AssemblyInfo.cs
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\bin\Debug\netcoreapp1.1\Rest.pdb
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\obj\Debug\netcoreapp1.1\Rest.dll
+C:\Users\Sawyer\Documents\Visual Studio 2017\Projects\Rest\Rest\obj\Debug\netcoreapp1.1\Rest.pdb
